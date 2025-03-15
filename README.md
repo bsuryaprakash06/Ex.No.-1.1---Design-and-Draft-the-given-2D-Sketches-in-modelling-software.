@@ -46,7 +46,8 @@ Reg.No: 212224230281
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/40a607e0-2e5e-4861-b638-1ba64dd3f74c)
+![image](https://github.com/user-attachments/assets/a996d6c8-837c-489d-ad8f-8627a2c827d2)
+
 
 
 
