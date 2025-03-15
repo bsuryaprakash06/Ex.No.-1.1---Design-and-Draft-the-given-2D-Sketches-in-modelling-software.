@@ -12,6 +12,10 @@ To sketch the given drawing with dimensions using fusion 360 tool.
   4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
   
 ## PROCEDURE
+```
+Name: B.Surya Prakash
+Reg.No: 212224230281
+```
 
 1.	Open new file and then select sketch icon.
 2.	Select the plane for sketching. 
@@ -42,6 +46,8 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/40a607e0-2e5e-4861-b638-1ba64dd3f74c)
+
 
 
 ## RESULT
